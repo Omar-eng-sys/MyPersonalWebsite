@@ -3,6 +3,12 @@
 
 A modern, responsive portfolio website showcasing my skills in development, design and photography. Built with **Bootstrap 5** and custom CSS.
 
+## 🌐 View Live Website
+
+[![View Live Demo](https://img.shields.io/badge/Live_Demo-View_Site-brightgreen?style=for-the-badge&logo=rocket)](https://omar-eng-sys.github.io/MyPersonalWebsite/)
+
+---
+
 <div align="left">
   <img src="./assets/screenshots/home-1.png" alt="Portfolio Screenshot" width="400"/>
   <img src="./assets/screenshots/home-2.png" alt="Portfolio Screenshot" width="400"/>
